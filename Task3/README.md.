@@ -1,0 +1,23 @@
+# ApexPlanet Data Analytics Internship – Task 3
+
+## Deep-Dive Analysis & Interactive Dashboarding
+
+### Objective
+To analyze sales performance, identify business patterns, and develop an interactive dashboard using the sales dataset.
+
+### Work Completed
+- KPI calculation
+- Sales analysis by category, product, and city
+- Monthly sales trend analysis
+- Customer analysis
+- Interactive charts and dashboard
+- Deep-dive report
+
+### Tools Used
+Python, Pandas, Matplotlib, Seaborn, Plotly, Google Colab, GitHub
+
+### Main Notebook
+`Task3_Deep_Dive.ipynb`
+
+### Deliverables
+KPI summary, sales analysis files, deep-dive report, and dashboard outputs.
